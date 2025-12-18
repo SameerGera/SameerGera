@@ -1,5 +1,9 @@
 # 💫 About Me:
-Most people are content with the high-level abstractions provided<br>by modern frameworks; I’m more interested in what’s happening <br>underneath them. I’m a developer who thrives in the "hard" parts of<br>computer science—where performance is measured in cycles and <br>architecture is a deliberate choice, not an afterthought. <br>While the standard path is often about following the syllabus to a predictable <br>job, I’ve spent my time breaking rendering engines, exploring the grit of distributed systems, <br>and pushing my limits in competitive programming. <br>I don't just want to build software that works; I want to build software <br>that respects the hardware it runs on. If a problem is "too complex" or <br>"too low-level" for the 95%, that’s usually where I start.
+I am your not so usual devloper from India. I’m a developer who thrives in the "hard" parts of<br>computer science—where performance is measured in cycles and <br>architecture is a deliberate choice, 
+not an afterthought.
+<br>While the standard path is often about following the syllabus to a predictable <br>job, I’ve spent my time breaking rendering engines, exploring the grit of distributed systems, 
+<br>and pushing my limits in competitive programming. <br>I don't just want to build software that works; I want to build software <br>that respects the hardware it runs on. 
+If a problem is "too complex" or <br>"too low-level" for the 95%, that’s usually where I start.
 
 
 ## 🌐 Socials:
